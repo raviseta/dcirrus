@@ -1,0 +1,71 @@
+PODS:
+  - Alamofire (5.4.1)
+  - IQKeyboardManagerSwift (6.5.5)
+  - NVActivityIndicatorView (4.8.0):
+    - NVActivityIndicatorView/Presenter (= 4.8.0)
+  - NVActivityIndicatorView/Presenter (4.8.0)
+  - ObjectMapper (4.2.0)
+  - Realm (10.5.1):
+    - Realm/Headers (= 10.5.1)
+  - Realm/Headers (10.5.1)
+  - RealmSwift (10.5.1):
+    - Realm (= 10.5.1)
+  - Sensitive (7.0)
+  - SwiftMessages (8.0.5):
+    - SwiftMessages/App (= 8.0.5)
+  - SwiftMessages/App (8.0.5)
+  - SwipeCellKit (2.7.1)
+  - Toast-Swift (5.0.1)
+  - Wormholy (1.6.4)
+
+DEPENDENCIES:
+  - Alamofire
+  - IQKeyboardManagerSwift
+  - NVActivityIndicatorView (from `https://github.com/ninjaprox/NVActivityIndicatorView.git`, tag `4.8.0`)
+  - ObjectMapper
+  - RealmSwift
+  - Sensitive
+  - SwiftMessages
+  - SwipeCellKit
+  - Toast-Swift (~> 5.0.1)
+  - Wormholy
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - IQKeyboardManagerSwift
+    - ObjectMapper
+    - Realm
+    - RealmSwift
+    - Sensitive
+    - SwiftMessages
+    - SwipeCellKit
+    - Toast-Swift
+    - Wormholy
+
+EXTERNAL SOURCES:
+  NVActivityIndicatorView:
+    :git: https://github.com/ninjaprox/NVActivityIndicatorView.git
+    :tag: 4.8.0
+
+CHECKOUT OPTIONS:
+  NVActivityIndicatorView:
+    :git: https://github.com/ninjaprox/NVActivityIndicatorView.git
+    :tag: 4.8.0
+
+SPEC CHECKSUMS:
+  Alamofire: 2291f7d21ca607c491dd17642e5d40fdcda0e65c
+  IQKeyboardManagerSwift: 0fb93310284665245591f50f7a5e38de615960b7
+  NVActivityIndicatorView: 24b713d5140767dc43097cd9d5ff719ff0660bdc
+  ObjectMapper: 1eb41f610210777375fa806bf161dc39fb832b81
+  Realm: 77fcb4e0b9f2963ea06f584749a0d7dc9cab95e1
+  RealmSwift: 6abe6aa6cd8b70cc1a87afcb9232cabea74ff1ac
+  Sensitive: 545320978de0447167caa32e18103a78f4865ffd
+  SwiftMessages: 539fd54a766bf08ec667e90aa141c44b8b8aaa55
+  SwipeCellKit: 3972254a826da74609926daf59b08d6c72e619ea
+  Toast-Swift: 9b6a70f28b3bf0b96c40d46c0c4b9d6639846711
+  Wormholy: 2e70f64227e010d363f8d33268369f77faf12471
+
+PODFILE CHECKSUM: 49d0a22b988906d434f2ccc87bdb3f558b85e707
+
+COCOAPODS: 1.10.0

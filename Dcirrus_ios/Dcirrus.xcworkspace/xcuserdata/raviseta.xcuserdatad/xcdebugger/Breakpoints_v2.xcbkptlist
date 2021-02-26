@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2E1C1D9B-13A5-4E7D-A795-79DE717841C8"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7F16430D-5389-481D-A313-7BD4D2EF8797"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Dcirrus/Controllers/EditProfileView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "50CFA972-B1E4-453C-860D-9F77F555D753"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Dcirrus/Controllers/RequestDepositViewController/RequestDepositViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "wsCallDownload()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "50CFA972-B1E4-453C-860D-9F77F555D753 - 7d967f1c291eb75d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Dcirrus.RequestDepositViewController.wsCallDownload() -&gt; ()"
+                  moduleName = "Dcirrus"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/raviseta/Documents/DCirrus_new/Final/IOS2_0/Dcirrus_ios/Dcirrus/Controllers/RequestDepositViewController/RequestDepositViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "638">
+               </Location>
+               <Location
+                  uuid = "50CFA972-B1E4-453C-860D-9F77F555D753 - 98cf0613cd4f42dc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Any, Swift.Error&gt;) -&gt; () in Dcirrus.RequestDepositViewController.wsCallDownload() -&gt; ()"
+                  moduleName = "Dcirrus"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/raviseta/Documents/DCirrus_new/Final/IOS2_0/Dcirrus_ios/Dcirrus/Controllers/RequestDepositViewController/RequestDepositViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "121">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "599AFF9E-6455-4F67-B7EE-CEC67C462BDC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Dcirrus/Controllers/RequestDepositViewController/RequestDepositViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "wsCallDownload()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BE5B4BC1-1567-4AC1-B226-E73CBEA4A7FF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Dcirrus/Controllers/RequestDepositViewController/RequestDepositViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "showAddContactPopUp()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

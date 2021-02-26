@@ -1,0 +1,279 @@
+
+/* Class = "UIButton"; normalTitle = "Forgot Password?"; ObjectID = "03O-4l-b3D"; */
+"03O-4l-b3D.normalTitle" = "¿Has olvidado tu contraseña?";
+
+/* Class = "UIButton"; normalTitle = "Phone security"; ObjectID = "09A-oN-qKi"; */
+"09A-oN-qKi.normalTitle" = "Seguridad del teléfono";
+
+/* Class = "UIButton"; normalTitle = "Add File"; ObjectID = "1fQ-So-HR9"; */
+"1fQ-So-HR9.normalTitle" = "Agregar archivo";
+
+/* Class = "UITextField"; placeholder = "Mobile Number"; ObjectID = "3SU-wM-nx2"; */
+"3SU-wM-nx2.placeholder" = "Número de teléfono móvil";
+
+/* Class = "UITextField"; placeholder = "Email Id"; ObjectID = "4rK-qU-F7w"; */
+"4rK-qU-F7w.placeholder" = "Identificación de correo";
+
+/* Class = "UITextField"; placeholder = "Email Id"; ObjectID = "5Go-DR-cXb"; */
+"5Go-DR-cXb.placeholder" = "Identificación de correo";
+
+/* Class = "UILabel"; text = "Steve.han"; ObjectID = "5n1-fL-TuS"; */
+"5n1-fL-TuS.text" = "Steve.han";
+
+/* Class = "UITextField"; placeholder = "Email Id"; ObjectID = "6NA-9z-gzs"; */
+"6NA-9z-gzs.placeholder" = "Identificación de correo";
+
+/* Class = "UITextField"; placeholder = "CurrentPassword"; ObjectID = "7fZ-dE-2re"; */
+"7fZ-dE-2re.placeholder" = "Contraseña actual";
+
+/* Class = "UILabel"; text = "12 Files"; ObjectID = "8A7-F7-v8h"; */
+"8A7-F7-v8h.text" = "12 Archivos";
+
+/* Class = "UIButton"; normalTitle = "DONE"; ObjectID = "8Ht-dA-Cg8"; */
+"8Ht-dA-Cg8.normalTitle" = "Hecho";
+
+/* Class = "UITextField"; placeholder = "Email Id"; ObjectID = "9Ac-aW-FXE"; */
+"9Ac-aW-FXE.placeholder" = "Identificación de correo";
+
+/* Class = "UILabel"; text = "+1 8563147523"; ObjectID = "BNI-i1-8io"; */
+"BNI-i1-8io.text" = "+1 8563147523";
+
+/* Class = "UITextField"; placeholder = "Folder name"; ObjectID = "C1W-6e-8ly"; */
+"C1W-6e-8ly.placeholder" = "Nombre de la carpeta";
+
+/* Class = "UILabel"; text = "EMAIL LIST"; ObjectID = "DF1-R6-cPy"; */
+"DF1-R6-cPy.text" = "LISTA DE CORREO";
+
+/* Class = "UITextField"; placeholder = "Enter the captcha"; ObjectID = "DYK-Ws-N3n"; */
+"DYK-Ws-N3n.placeholder" = "Ingresa el captcha";
+
+/* Class = "UILabel"; text = "Remember me"; ObjectID = "FCm-cr-LRT"; */
+"FCm-cr-LRT.text" = "Acuérdate de mí";
+
+/* Class = "UILabel"; text = "Register as Corporate User "; ObjectID = "FuJ-JT-7gH"; */
+"FuJ-JT-7gH.text" = "Registrarse como usuario corporativo ";
+
+/* Class = "UIButton"; normalTitle = "Read only"; ObjectID = "ILA-dh-TUz"; */
+"ILA-dh-TUz.normalTitle" = "Solo lectura";
+
+/* Class = "UILabel"; text = "Uploading"; ObjectID = "Igj-wn-AEN"; */
+"Igj-wn-AEN.text" = "Subiendo";
+
+/* Class = "UIButton"; normalTitle = "Add Folder"; ObjectID = "Iz1-Vm-tVR"; */
+"Iz1-Vm-tVR.normalTitle" = "Agregar carpeta";
+
+/* Class = "UIButton"; normalTitle = "Email security"; ObjectID = "J48-mh-aLV"; */
+"J48-mh-aLV.normalTitle" = "Seguridad del correo electrónico";
+
+/* Class = "UILabel"; text = "Notification updates"; ObjectID = "J4p-0Q-ItD"; */
+"J4p-0Q-ItD.text" = "Actualizaciones de notificaciones";
+
+/* Class = "UIButton"; normalTitle = "Signup "; ObjectID = "JTY-KK-11D"; */
+"JTY-KK-11D.normalTitle" = "Regístrate ";
+
+/* Class = "UIButton"; normalTitle = "LOGIN"; ObjectID = "KOw-Qo-FWJ"; */
+"KOw-Qo-FWJ.normalTitle" = "INICIAR SESIÓN";
+
+/* Class = "UITextField"; placeholder = "User ID"; ObjectID = "LPP-HQ-Y5l"; */
+"LPP-HQ-Y5l.placeholder" = "ID de usuario";
+
+/* Class = "UIButton"; normalTitle = "DONE"; ObjectID = "LmV-QY-4vN"; */
+"LmV-QY-4vN.normalTitle" = "Hecho";
+
+/* Class = "UIButton"; normalTitle = "CANCEL"; ObjectID = "MSw-i6-bPl"; */
+"MSw-i6-bPl.normalTitle" = "CANCELAR";
+
+/* Class = "UILabel"; text = "Forget Password"; ObjectID = "MwA-bz-dLK"; */
+"MwA-bz-dLK.text" = "Contraseña olvidada";
+
+/* Class = "UIButton"; normalTitle = "BROWSE FILE"; ObjectID = "Na9-Yp-yUm"; */
+"Na9-Yp-yUm.normalTitle" = "BUSCAR ARCHIVO";
+
+/* Class = "UILabel"; text = "Login"; ObjectID = "NjK-e4-c2u"; */
+"NjK-e4-c2u.text" = "Iniciar sesión";
+
+/* Class = "UILabel"; text = "Documents"; ObjectID = "OOL-wZ-A0c"; */
+"OOL-wZ-A0c.text" = "Documentos";
+
+/* Class = "UIButton"; normalTitle = "SAVE"; ObjectID = "Oc8-aw-zU4"; */
+"Oc8-aw-zU4.normalTitle" = "SALVAR";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "Oof-fg-NdB"; */
+"Oof-fg-NdB.normalTitle" = "Okay";
+
+/* Class = "UIButton"; normalTitle = "Login "; ObjectID = "P9f-h3-lvF"; */
+"P9f-h3-lvF.normalTitle" = "Iniciar sesión ";
+
+/* Class = "UILabel"; text = "Documents"; ObjectID = "PJU-N9-8Zu"; */
+"PJU-N9-8Zu.text" = "Documentos";
+
+/* Class = "UITextField"; placeholder = "New Password"; ObjectID = "PZz-7X-4b9"; */
+"PZz-7X-4b9.placeholder" = "Nueva contraseña";
+
+/* Class = "UIButton"; normalTitle = "Allow print"; ObjectID = "PgL-la-6Iz"; */
+"PgL-la-6Iz.normalTitle" = "Permitir imprimir";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "QvI-Ri-LeW"; */
+"QvI-Ri-LeW.text" = "Label";
+
+/* Class = "UILabel"; text = "Documents"; ObjectID = "RIm-dO-M6X"; */
+"RIm-dO-M6X.text" = "Documentos";
+
+/* Class = "UITabBarItem"; title = "Personal Folder"; ObjectID = "RQ3-Ny-GuG"; */
+"RQ3-Ny-GuG.title" = "Carpeta personal";
+
+/* Class = "UILabel"; text = "Enter the email address associated with your account"; ObjectID = "Rbl-YQ-wKP"; */
+"Rbl-YQ-wKP.text" = "Ingrese la dirección de correo electrónico asociada a su cuenta";
+
+/* Class = "UITextField"; placeholder = "Company Name"; ObjectID = "Rsq-ns-VLe"; */
+"Rsq-ns-VLe.placeholder" = "nombre de empresa";
+
+/* Class = "UITextField"; placeholder = "Business Id"; ObjectID = "S90-7M-wNo"; */
+"S90-7M-wNo.placeholder" = "Identificación del negocio";
+
+/* Class = "UILabel"; text = "Or"; ObjectID = "SBF-m4-fCQ"; */
+"SBF-m4-fCQ.text" = "O";
+
+/* Class = "UITextField"; placeholder = "Login Id"; ObjectID = "V1k-yj-zuE"; */
+"V1k-yj-zuE.placeholder" = "Ingresar identificación";
+
+/* Class = "UILabel"; text = "12 Files"; ObjectID = "VJA-sW-4nU"; */
+"VJA-sW-4nU.text" = "12 archivos";
+
+/* Class = "UILabel"; text = "12 Files"; ObjectID = "Vst-lF-b4c"; */
+"Vst-lF-b4c.text" = "12 archivos";
+
+/* Class = "UIButton"; normalTitle = "Infinite days"; ObjectID = "XOe-3n-1Kw"; */
+"XOe-3n-1Kw.normalTitle" = "Días infinitos";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "YlO-3J-0e1"; */
+"YlO-3J-0e1.placeholder" = "Contraseña";
+
+/* Class = "UITextField"; placeholder = "Email Id"; ObjectID = "Z4F-9N-bTB"; */
+"Z4F-9N-bTB.placeholder" = "Identificación de correo";
+
+/* Class = "UILabel"; text = "12 Files"; ObjectID = "ZyT-8V-CGb"; */
+"ZyT-8V-CGb.text" = "12 archivos";
+
+/* Class = "UILabel"; text = "Documents"; ObjectID = "aPv-mo-KV6"; */
+"aPv-mo-KV6.text" = "Documentos";
+
+/* Class = "UILabel"; text = "To:"; ObjectID = "aRB-Lj-rs1"; */
+"aRB-Lj-rs1.text" = "A:";
+
+/* Class = "UILabel"; text = "Change Password"; ObjectID = "ahz-D1-pld"; */
+"ahz-D1-pld.text" = "Cambia la contraseña";
+
+/* Class = "UITabBarItem"; title = "Downlods"; ObjectID = "b2O-Dh-qlo"; */
+"b2O-Dh-qlo.title" = "Descargar";
+
+/* Class = "UIButton"; normalTitle = "Sort By Date "; ObjectID = "c6q-ZX-XPs"; */
+"c6q-ZX-XPs.normalTitle" = "Ordenar por fecha ";
+
+/* Class = "UILabel"; text = "UPLOAD FILE"; ObjectID = "cP1-Zs-SnR"; */
+"cP1-Zs-SnR.text" = "SUBIR ARCHIVO";
+
+/* Class = "UIButton"; normalTitle = "Sort By Date "; ObjectID = "cgr-93-4xu"; */
+"cgr-93-4xu.normalTitle" = "Ordenar por fecha ";
+
+/* Class = "UIButton"; normalTitle = "Sort By Date "; ObjectID = "d3S-GP-DpG"; */
+"d3S-GP-DpG.normalTitle" = "Ordenar por fecha ";
+
+/* Class = "UIButton"; normalTitle = "For Corporate User "; ObjectID = "e3b-F7-gdM"; */
+"e3b-F7-gdM.normalTitle" = "Para usuaria corporativa ";
+
+/* Class = "UITextField"; placeholder = "Mobile Number"; ObjectID = "el3-tG-Zwj"; */
+"el3-tG-Zwj.placeholder" = "Número de teléfono móvil";
+
+/* Class = "UILabel"; text = "SUCCESS!"; ObjectID = "fjf-4i-gDT"; */
+"fjf-4i-gDT.text" = "ÉXITO!";
+
+/* Class = "UIButton"; normalTitle = "ADD MORE"; ObjectID = "fxr-cb-b7C"; */
+"fxr-cb-b7C.normalTitle" = "AÑADIR MÁS";
+
+/* Class = "UIButton"; normalTitle = "Add File"; ObjectID = "g3K-Js-R0I"; */
+"g3K-Js-R0I.normalTitle" = "Agregar archivo";
+
+/* Class = "UILabel"; text = "Edit Profile"; ObjectID = "g3t-Yp-AHB"; */
+"g3t-Yp-AHB.text" = "Editar perfil";
+
+/* Class = "UITextField"; placeholder = "Root"; ObjectID = "gCc-C5-Ypj"; */
+"gCc-C5-Ypj.placeholder" = "Raíz";
+
+/* Class = "UITextField"; text = "Root"; ObjectID = "gCc-C5-Ypj"; */
+"gCc-C5-Ypj.text" = "Raíz";
+
+/* Class = "UIButton"; normalTitle = "DONE"; ObjectID = "gSl-y7-ymd"; */
+"gSl-y7-ymd.normalTitle" = "Hecho";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ghF-6O-NsN"; */
+"ghF-6O-NsN.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "Profile"; ObjectID = "hDc-am-Vwf"; */
+"hDc-am-Vwf.title" = "Perfil";
+
+/* Class = "UILabel"; text = "ENTER FOLDER NAME"; ObjectID = "htd-6S-Ua2"; */
+"htd-6S-Ua2.text" = "INTRODUZCA EL NOMBRE DE LA CARPETA";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "hzQ-Y2-caC"; */
+"hzQ-Y2-caC.normalTitle" = "Botón";
+
+/* Class = "UIButton"; normalTitle = "Add Folder"; ObjectID = "jXc-lv-wSb"; */
+"jXc-lv-wSb.normalTitle" = "Agregar carpeta";
+
+/* Class = "UILabel"; text = "We have sent a link to reset your password"; ObjectID = "jgj-Ys-YV7"; */
+"jgj-Ys-YV7.text" = "Hemos enviado un enlace para restablecer su contraseña.";
+
+/* Class = "UIButton"; normalTitle = "CANCEL"; ObjectID = "mH4-Vy-dMU"; */
+"mH4-Vy-dMU.normalTitle" = "CANCELAR";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "mJf-he-iS0"; */
+"mJf-he-iS0.placeholder" = "Nombre";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "mV1-ox-6Wo"; */
+"mV1-ox-6Wo.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "Share expires in 30 days"; ObjectID = "nZ2-5d-6RO"; */
+"nZ2-5d-6RO.text" = "Compartir caduca en 30 días";
+
+/* Class = "UITextField"; placeholder = "Login Id"; ObjectID = "nmR-yj-aG9"; */
+"nmR-yj-aG9.placeholder" = "Ingresar identificación";
+
+/* Class = "UILabel"; text = "stevehan@imail.com"; ObjectID = "o9U-vC-baw"; */
+"o9U-vC-baw.text" = "stevehan@imail.com";
+
+/* Class = "UIButton"; normalTitle = "DONE"; ObjectID = "pBw-tM-JiD"; */
+"pBw-tM-JiD.normalTitle" = "Hecho";
+
+/* Class = "UIButton"; normalTitle = "No security"; ObjectID = "pJy-xj-xpM"; */
+"pJy-xj-xpM.normalTitle" = "Sin seguridad";
+
+/* Class = "UITabBarItem"; title = "Data Room"; ObjectID = "qCI-PL-K1O"; */
+"qCI-PL-K1O.title" = "Sala de datos";
+
+/* Class = "UIButton"; normalTitle = "SEND REQUEST"; ObjectID = "rYL-5f-WLl"; */
+"rYL-5f-WLl.normalTitle" = "ENVIAR PETICIÓN";
+
+/* Class = "UITextField"; placeholder = "Login Id"; ObjectID = "s7f-gX-Wyp"; */
+"s7f-gX-Wyp.placeholder" = "Ingresar identificación";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "she-nL-ChP"; */
+"she-nL-ChP.placeholder" = "Nombre";
+
+/* Class = "UITextField"; text = "Alex"; ObjectID = "she-nL-ChP"; */
+"she-nL-ChP.text" = "Alex";
+
+/* Class = "UITextField"; text = "US East (Ohio)"; ObjectID = "uFk-Ro-SL6"; */
+"uFk-Ro-SL6.text" = "US East (Ohio)";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "wKW-Fu-hpq"; */
+"wKW-Fu-hpq.placeholder" = "Nombre";
+
+/* Class = "UIButton"; normalTitle = "ADD"; ObjectID = "xFp-kN-zgi"; */
+"xFp-kN-zgi.normalTitle" = "AÑADIR";
+
+/* Class = "UIButton"; normalTitle = "SEND"; ObjectID = "yGr-Mz-vzq"; */
+"yGr-Mz-vzq.normalTitle" = "ENVIAR";
+
+/* Class = "UILabel"; text = "Signup"; ObjectID = "z72-ol-dXP"; */
+"z72-ol-dXP.text" = "Regístrate";

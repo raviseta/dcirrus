@@ -1,0 +1,18 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+use_frameworks!
+
+target 'Dcirrus' do
+
+  # Comment the next line if you don't want to use dynamic frameworks
+  pod 'IQKeyboardManagerSwift'
+  pod 'SwipeCellKit'
+  pod 'Toast-Swift', '~> 5.0.1'
+  pod 'Alamofire'
+  pod 'ObjectMapper'
+  pod 'NVActivityIndicatorView', :git => 'https://github.com/ninjaprox/NVActivityIndicatorView.git', :tag => '4.8.0'
+  pod 'Wormholy', :configurations => ['Debug']
+  pod 'SwiftMessages'
+  pod 'RealmSwift'
+  pod 'Sensitive'
+end
